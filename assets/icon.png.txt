@@ -1,0 +1,11 @@
+Icon placeholder
+
+Please create an icon.png file (512x512px) for the Raycast extension.
+
+Suggested icon themes:
+- 🔮 Crystal ball
+- 🐉 Chinese dragon (卧龙)
+- 📊 Chart with crystal ball
+- 🎯 Target with prediction element
+
+The icon should be saved as: assets/icon.png
