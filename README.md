@@ -74,9 +74,9 @@ npm run lint
 
 MIT
 
-## Author
+## Acknowledgments
 
-[@giraphant](https://github.com/giraphant)
+This project was inspired by and built upon the prompt engineering framework from [Polyseer](https://github.com/yorkeccak/Polyseer). Special thanks to the Polyseer team for their innovative approach to prediction market analysis.
 
 ---
 
